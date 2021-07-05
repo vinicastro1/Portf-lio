@@ -29,3 +29,16 @@ body{
     letter-spacing: 2px;
     line-height: 170px;
 }
+
+.vetor{
+    border: 5px;
+    margin: 5px;
+    margin-left: 950px;
+    position: absolute;
+    margin-top: -500px;
+}
+
+.vetor img{
+    width: 320px;
+    height: 400px;
+}
