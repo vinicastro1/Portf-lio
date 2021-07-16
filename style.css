@@ -1,19 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
 
 
 
 body{
     background: black;
     color: #fff;
-
 }
 
 .logo{
     display:inline-block;
     border: 50px;
     margin: 20px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 .logo img{
@@ -22,12 +26,12 @@ body{
 }
 
 .nome{
-    margin-top: 150px;
+    margin-top: -50px;
     margin-left: 100px;
     font-size: 100px;
     font-family: 'Caveat', cursive;
     letter-spacing: 2px;
-    line-height: 170px;
+    line-height: 150px;
 }
 
 .vetor{
@@ -39,6 +43,268 @@ body{
 }
 
 .vetor img{
-    width: 320px;
+    width: 420px;
+    height: 500px;
+}
+
+.contato1{
+    margin-left: 400px;
+    margin-top: -80px;
+    position: absolute;
+    border: none !important;
+    font-size: 30px;
+    background-color: black;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 255, 255);
+    border-radius: 4px #fff;
+    cursor: pointer;
+}
+
+.projetos{
+    margin-left: 130px;
+    margin-top: -80px;
+    position: absolute;
+    border: none !important;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Anton', sans-serif;
+    color: rgb(0, 0, 0);
+    border-radius: 1px #000;
+    cursor: pointer;
+}
+
+.contato2{
+    margin-left: 420px;
+    margin-top: -640px;
+    position: absolute;
+    border: none !important;
+    font-size: 25px;
+    background-color: black;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 255, 255);
+    border-radius: 4px #fff;
+    cursor: pointer;
+}
+
+.contato3{
+    margin-left: 900px;
+    margin-top: -640px;
+    position: absolute;
+    border: none !important;
+    font-size: 25px;
+    background-color: black;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 255, 255);
+    border-radius: 4px #fff;
+    cursor: pointer;
+}
+
+.contato4{
+    margin-left: 650px;
+    margin-top: -640px;
+    position: absolute;
+    border: none !important;
+    font-size: 25px;
+    background-color: black;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 255, 255);
+    border-radius: 4px #fff;
+    cursor: pointer;
+}
+
+.lupa{
+    border: 5px;
+    margin: 5px;
+    margin-left: 1500px;
+    position: absolute;
+    margin-top: -640px;
+    cursor: pointer;
+}
+
+.lupa img{
+    width: 40px;
+    height: 40x;
+}
+
+.nome2{
+    margin-top: -170px;
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: 'Caveat', cursive;
+    letter-spacing: 2px;
+    line-height: 150px;
+}
+
+.seta{
+    border: 5px;
+    margin: 5px;
+    margin-left: 700px;
+    position: absolute;
+    margin-top: -40px;
+    cursor: pointer;
+}
+
+.seta img{
+    width: 80px;
+    height: 80x;
+}
+
+.nome3{
+    margin-top: -70px;
+    margin-left: 550px;
+    font-size: 50px;
+    font-family: 'Caveat', cursive;
+    letter-spacing: 2px;
+    line-height: 150px;
+    position: absolute;
+}
+
+.barrafinal{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 10px;
+    position: fixed;
+    opacity: 0.9;
+    margin-bottom: 1px;
+    padding: 100px;
+}
+
+.quadrado1{
+    background-color: rgb(12, 12, 12);
+    width: 300px;
     height: 400px;
+    margin-left: 50px;
+    margin-top: 230px;
+
+}
+
+.quadrado2{
+    background-color: rgb(12, 12, 12);
+    width: 300px;
+    height: 400px;
+    margin-left: 620px;
+    margin-top: -400px;
+
+}
+
+.quadrado3{
+    background-color: rgb(12, 12, 12);
+    width: 300px;
+    height: 400px;
+    margin-left: 1200px;
+    margin-top: -400px;
+
+}
+
+.logopreto1{
+    border: 5px;
+    margin: 5px;
+    margin-left: 720px;
+    position: absolute;
+    margin-top: -380px;
+    cursor: pointer;
+}
+
+.logopreto1 img{
+    width: 80px;
+    height: 80x;
+}
+
+.logopreto2{
+    border: 5px;
+    margin: 5px;
+    margin-left: 150px;
+    position: absolute;
+    margin-top: -380px;
+    cursor: pointer;
+}
+
+.logopreto2 img{
+    width: 80px;
+    height: 80x;
+}
+
+.logopreto3{
+    border: 5px;
+    margin: 5px;
+    margin-left: 1300px;
+    position: absolute;
+    margin-top: -380px;
+    cursor: pointer;
+}
+
+.logopreto3 img{
+    width: 80px;
+    height: 80x;
+}
+
+.txt1{
+    margin-top: -330px;
+    margin-left: 80px;
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    line-height: 150px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    line-height: 45px;
+}
+
+.txt2{
+    margin-top: -150px;
+    margin-left: -25px;
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    line-height: 150px;
+    color: rgb(255, 255, 255);
+    line-height: 45px;
+    text-align: center;
+}
+
+.txt3{
+    margin-top: -150px;
+    margin-left: 1150px;
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    line-height: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.msgfinal{
+    margin-top: 280px;
+    margin-left: -25;
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    line-height: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.msgfinal2{
+    margin-top: 15px;
+    margin-left: 90px;
+    font-size: 15px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    line-height: 20 px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.logosfinal{
+    border: 5px;
+    margin: 5px;
+    margin-left: 440px;
+    position: absolute;
+    margin-top: 60px;
+    cursor: pointer;
+}
+
+.logosfinal img{
+    width: 700px;
+    height: ;
 }
